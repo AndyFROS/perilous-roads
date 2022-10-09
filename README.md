@@ -1,5 +1,2 @@
 # perilous-roads
-# perilous-roads
-# perilous-roads
-# perilous-roads
-# perilous-roads
+Выполнение задачи поиска опасных дорожных участков дорог при помощи средств машинного обучения
